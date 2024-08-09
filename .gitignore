@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+*.so
+*.pcm
+*~
 
 # Compiled Object files
 *.slo
@@ -30,3 +33,9 @@
 *.exe
 *.out
 *.app
+
+*.root
+*.png
+*.pdf
+
+core_dump*
